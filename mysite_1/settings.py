@@ -25,7 +25,7 @@ SECRET_KEY = '1z_np_+&@i55len8+5&0u1@&zo$r47g3=^n^arfw3$z38u$#)v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://suar.pythonanywhere.com/']
+ALLOWED_HOSTS = ['suar.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
